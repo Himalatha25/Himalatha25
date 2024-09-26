@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm HIMALATHA 
 I’m a passionate Computer Science Engineering student at Vidyavardhaka, specializing in building innovative software solutions. With a good foundation in web development, machine learning, and cloud technologies, I'm constantly exploring new ways to learn and make real impact contributions.
 
-🌱 What I’m working on:
+🌱 What I worked on:
 File sharing server solution based on SMB protocol.
 Deed Hub: A web-based platform for land registration and property listings using Flask.
 Job Architect: A machine learning-powered job recommendation system to match skills with opportunities.
